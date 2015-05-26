@@ -3,7 +3,7 @@
 #### px => %   
 ````css
 .main {
-  width: 60%; // 600px / 1000px
+  width: 60%; /* 600px / 1000px */
 }
 ````
 #### Media query    
