@@ -1,12 +1,12 @@
 [Responsive Web Design](http://alistapart.com/article/responsive-web-design)   
-1. Images   
-2. px => %   
+#### Images   
+#### px => %   
 ````css
 .main {
   width: 60%; // 600px / 1000px
 }
 ````
-3. Media query    
+#### Media query    
 ````html
 <link rel="stylesheet" media="(max-width: 800px)" href="example.css" />
 ````
