@@ -1,5 +1,5 @@
 [Responsive Web Design](http://alistapart.com/article/responsive-web-design)   
-1. Images
+1. Images   
 2. px => %   
 ````css
 .main {
