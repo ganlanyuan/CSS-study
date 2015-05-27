@@ -1,6 +1,7 @@
 [Responsive Web Design](http://alistapart.com/article/responsive-web-design)   
 #### Images   
-#### px => %   
+[js](https://github.com/ganlanyuan/responsive-images.js)
+#### px to %   
 ````css
 .main {
   width: 60%; /* 600px / 1000px */
